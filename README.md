@@ -2,7 +2,7 @@
 Créer un site accessible pour une plateforme de photographes
 
 ## Page github
-La page github: https://menallen.github.io/PhilippeJoubard_P6_032022/index.html
+La page github: 
 
 ## Démarrer le projet
 Rien à installer ici, il suffit d'ouvrir le fichier `index.html`
