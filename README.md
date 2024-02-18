@@ -16,4 +16,4 @@ Livraison étape 6 -> modale de contact
 Livraison étape 7 -> Lightbox pour images only + nav modale fleches clavier
 Livraison étape 8 -> Afficher et gérer les likes. Corrections video dans lightbox
 Livraison étape 9 -> tri de la galerie
-Livraison étape 10 -> Eslint
+Fin du projet 
